@@ -1,0 +1,23 @@
+#GENERAL
+
+#IDE - VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+#img klasör de belirtebiliyoruz.
+*.jpg
+*.png
+/img
+
+#videos
+*.mp4
+
+#packages
+
+#bootstrap gibi kütüphane hazır paketleri de versiyon kontrole eklemek istemeyiz.
+#log
+*.log
+*.txt
