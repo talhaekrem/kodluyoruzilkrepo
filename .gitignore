@@ -9,7 +9,6 @@
 
 #img klasör de belirtebiliyoruz.
 *.jpg
-*.png
 /img
 
 #videos
